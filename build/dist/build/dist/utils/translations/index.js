@@ -1,0 +1,6 @@
+import en from "./en";
+import tr from "./tr";
+import ru from "./ru";
+export { en, tr, ru };
+//# sourceMappingURL=index.js.map
+//# sourceMappingURL=index.js.map
