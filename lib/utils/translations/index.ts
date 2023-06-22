@@ -1,4 +1,5 @@
 import en from "./en";
 import tr from "./tr";
+import ru from "./ru";
 
-export { en, tr };
+export { en, tr, ru };
